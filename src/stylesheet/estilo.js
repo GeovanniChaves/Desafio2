@@ -15,3 +15,4 @@ export const estilos = StyleSheet.create({
     fontWeight: 'bold',
   },
 });
+//
